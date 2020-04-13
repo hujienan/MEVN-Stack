@@ -1,5 +1,11 @@
 # MEVN-Stack
 
+## Config .env file
+
+1. mv .env.example .env
+
+2. Set proper values to the keys
+
 ## Start server
 
 1. npm i
