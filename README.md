@@ -8,7 +8,7 @@
 
 ## Start client
 
-1. cd client
+1. cd client/
 
 2. npm i
 
