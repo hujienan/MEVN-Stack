@@ -2,7 +2,7 @@
 
 ## Config .env file
 
-1. mv .env.example .env
+1. ```mv .env.example .env```
 
 2. Set proper values to the keys
 
